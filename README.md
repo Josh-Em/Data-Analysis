@@ -3,7 +3,7 @@
 
 #### :books: bookstore_analysis.py
 
-##### From the csv file created by [bookstore_web_scrape.py](https://github.com/Josh-Em/Data-Collection/blob/main/bookstore_web_scrape.py), a brief analysis is done using the pandas package. The data is plotted in various figures in an attempt to ascertain trends. The figures are presented below. 
+##### From the csv file created by [bookstore_web_scrape.py](https://github.com/Josh-Em/web-scrape-basics/blob/main/bookstore_web_scrape.py), a brief analysis is done using the pandas package. The data is plotted in various figures in an attempt to ascertain trends. The figures are presented below. 
 
 ![rating_dist](https://user-images.githubusercontent.com/98699929/153882568-885b2613-a51a-40bb-9778-a5e9f623ba03.png)
 
